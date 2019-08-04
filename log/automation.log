@@ -1,0 +1,207 @@
+2019-08-03 09:55:53 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 09:56:14 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 09:56:30 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 09:56:54 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 09:57:10 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 09:57:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:00:42 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 10:00:51 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:01:06 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:01:21 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:01:36 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:01:50 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:02:05 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:02:19 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:02:32 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:02:45 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:03:11 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:03:33 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:03:52 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:03:56 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:03:57 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 10:11:17 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 10:11:21 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:11:31 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:11:36 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:11:41 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:11:54 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:11:59 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:12:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:12:13 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:12:22 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:12:35 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:12:40 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:12:46 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:12:51 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:12:55 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:13:09 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:13:31 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:13:37 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:13:39 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:13:52 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:13:57 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:14:00 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:14:13 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:14:17 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 10:14:18 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 11:48:11 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:48:15 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 11:48:39 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:48:53 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 11:49:22 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:49:35 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 11:50:08 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:50:23 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 11:50:53 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 11:51:05 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:07:44 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:07:47 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:08:05 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:08:27 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:08:45 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:09:07 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:09:25 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:09:38 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:09:51 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:10:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:10:08 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:10:08 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:19:37 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:19:40 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:19:58 [main] ERROR BasePage:83 - Failed to click on :: Calendar Events
+2019-08-03 12:19:58 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Batyrs-MacBook-Pro.local', ip: '2601:600:8080:2109:0:0:0:ef77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/_7/jy1_5m4551l...}, goog:chromeOptions: {debuggerAddress: localhost:60354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 89bb77aa8e013136173347dbb60e0e0e
+2019-08-03 12:23:01 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:23:04 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:23:58 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:24:19 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:24:37 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:24:51 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:10 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:23 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:36 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:50 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:53 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:25:54 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:29:43 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:29:46 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:30:05 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:30:16 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:31:52 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:31:55 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:32:14 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:32:31 [main] ERROR BasePage:83 - Failed to click on :: Calendar Events
+2019-08-03 12:32:31 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Batyrs-MacBook-Pro.local', ip: '2601:600:8080:2109:0:0:0:ef77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/_7/jy1_5m4551l...}, goog:chromeOptions: {debuggerAddress: localhost:60772}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dee6927c26709acefe2aa6261bd0d20c
+2019-08-03 12:33:18 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:33:22 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:33:40 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:33:52 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:34:13 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:34:16 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:34:38 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:35:17 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:35:20 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2019-08-03 12:35:43 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:38:17 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:38:20 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:38:37 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:38:54 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:38:59 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:39:20 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:39:38 [main] ERROR BasePage:83 - Failed to click on :: Calendar Events
+2019-08-03 12:39:38 [main] ERROR BasePage:84 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Batyrs-MacBook-Pro.local', ip: '2601:600:8080:2109:0:0:0:ef77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/_7/jy1_5m4551l...}, goog:chromeOptions: {debuggerAddress: localhost:61001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a97233bf158b6fb60e44ca97ca7f813d
+2019-08-03 12:40:54 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:41:02 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:41:22 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:41:41 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:00 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:14 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:28 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:41 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:45 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:42:46 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:47:28 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:47:31 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:47:51 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 12:48:10 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:48:13 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:48:32 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:48:53 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:49:44 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:50:03 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:50:22 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:50:35 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:50:55 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:51:02 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:51:19 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:51:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:51:35 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:51:36 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:01:04 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:01:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:01:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:01:42 [main] ERROR BasePage:54 - Loader mask doesn't present.
+2019-08-03 13:01:46 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:01:59 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:02:01 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:02:48 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:03:32 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:03:35 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:03:53 [main] ERROR BasePage:85 - Failed to click on :: Calendar Events
+2019-08-03 13:03:53 [main] ERROR BasePage:86 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[normalize-space()='Calendar Events' and contains(@class, 'title title-level-2')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Batyrs-MacBook-Pro.local', ip: '2601:600:8080:2109:0:0:0:ef77%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.142, chrome: {chromedriverVersion: 75.0.3770.8 (681f24ea911fe7..., userDataDir: /var/folders/_7/jy1_5m4551l...}, goog:chromeOptions: {debuggerAddress: localhost:61843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e859c536402ea50ffcacadd3b3603d3
+2019-08-03 13:04:19 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:04:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:05:15 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:05:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:05:34 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:05:55 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:05:58 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:06:49 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:07:41 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:07:59 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:08:02 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:08:59 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:09:22 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:09:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:18:55 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:18:58 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:19:16 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 13:19:33 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:19:36 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:19:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:20:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:20:38 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:20:58 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:21:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:21:32 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:21:46 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:21:59 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:22:03 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:22:04 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 14:10:57 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:11:00 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:11:16 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:11:33 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:11:55 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:12:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:12:28 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:12:42 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::

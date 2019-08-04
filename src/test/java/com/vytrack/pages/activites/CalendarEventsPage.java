@@ -5,6 +5,7 @@ import com.vytrack.utilities.BrowserUtils;
 import com.vytrack.utilities.ConfigurationReader;
 import com.vytrack.utilities.Driver;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -59,6 +60,8 @@ public class CalendarEventsPage extends BasePage {
     public void selectGridSetting(String name, boolean yesOrNo) {
         //click on grid options
         waitUntilLoaderScreenDisappear();
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+        wait.until(ExpectedConditions.elementToBeClickable(gridSettingsElement));
         gridSettingsElement.click();
         //create locator for grid option based on the name
         String locator = "//td//label[text()='" + name + "']/../following-sibling::td//input";
@@ -106,7 +109,9 @@ public class CalendarEventsPage extends BasePage {
 
         //click on start or end date
         if (startOrEnd.equalsIgnoreCase("start")) {
-            BrowserUtils.waitForVisibility(startDate, 5);
+            BrowserUtils.waitForVisibility(startDate, 20);
+//            WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("MEDIUM_WAIT")));
+//            wait.until(ExpectedConditions.elementToBeClickable(startDate));
             startDate.click();
         } else {
             BrowserUtils.waitForVisibility(endDate, 5);
@@ -175,6 +180,8 @@ public class CalendarEventsPage extends BasePage {
     public void selectStartTime(String time) {
         waitUntilLoaderScreenDisappear();
         String startTimeToSelect = "(//li[text()='" + time + "'])[1]";
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+        wait.until(ExpectedConditions.elementToBeClickable(startTime));
         startTime.click();
         new WebDriverWait(Driver.getDriver(), 10).until(ExpectedConditions.presenceOfElementLocated(By.xpath(startTimeToSelect)));
         Driver.getDriver().findElement(By.xpath(startTimeToSelect)).click();
@@ -200,7 +207,10 @@ public class CalendarEventsPage extends BasePage {
 
     public void clickOnCreateCalendarEvent() {
         waitUntilLoaderScreenDisappear();
-        BrowserUtils.waitForStaleElement(createCalendarEventBtn);
+
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+       wait.until(ExpectedConditions.visibilityOf(createCalendarEventBtn));
+      //  BrowserUtils.waitForStaleElement(createCalendarEventBtn);
         BrowserUtils.waitForClickablility(createCalendarEventBtn, Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
         createCalendarEventBtn.click();
     }
