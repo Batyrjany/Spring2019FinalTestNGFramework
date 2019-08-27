@@ -8,4 +8,4 @@ white
 green
 brown
 silver
-car
+truck
