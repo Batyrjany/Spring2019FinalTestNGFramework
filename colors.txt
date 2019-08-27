@@ -4,4 +4,4 @@ orange
 pink
 yellow
 purple
-black
+white
