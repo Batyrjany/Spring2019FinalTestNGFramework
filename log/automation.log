@@ -205,3 +205,123 @@ Session ID: 2e859c536402ea50ffcacadd3b3603d3
 2019-08-03 14:12:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
 2019-08-03 14:12:28 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
 2019-08-03 14:12:42 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-24 14:13:46 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_24_2019/report.html
+2019-08-24 14:13:47 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-24 14:15:38 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_24_2019/report.html
+2019-08-24 14:15:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:06:25 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:06:26 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:10:08 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:10:12 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:10:14 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:10:40 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:11:06 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:11:08 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:11:10 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:11:12 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:11:41 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:12:10 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:12:12 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:12:14 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:12:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:12:47 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:13:16 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:13:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:13:20 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:13:20 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:19:05 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:19:06 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:19:22 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:19:23 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:19:48 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:19:52 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:19:54 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:20:19 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:20:45 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:20:47 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:20:49 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:20:51 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:21:20 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:21:50 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:21:52 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:21:54 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:21:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:22:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:22:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:22:58 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:23:00 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:23:00 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:28:05 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:28:08 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:28:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:28:36 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:29:03 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:29:05 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:29:08 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:29:10 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:29:39 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:30:10 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:30:12 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:30:14 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:30:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:30:47 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:31:16 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:31:18 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:31:21 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:31:21 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:36:20 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:36:24 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:36:26 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:36:53 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:37:19 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:37:21 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:37:24 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:37:26 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:37:55 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:38:24 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:38:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:38:29 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:38:31 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:39:00 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:39:29 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:39:31 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:39:34 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:39:34 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 08:45:49 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 08:45:52 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:45:55 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:05 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:15 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:20 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:22 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:35 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:49 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:51 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:53 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:46:55 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:47:09 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:47:22 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:47:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:47:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 08:47:27 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 09:00:51 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 09:00:51 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-25 09:01:38 [main] INFO  TestBase:47 - Report path: /Users/batyrjany/IdeaProjects/Spring2019FinalTestNGFramework/test-output/reports/08_25_2019/report.html
+2019-08-25 09:01:42 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:01:44 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:01:54 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:04 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:06 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:09 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:40 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:43 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:45 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:02:48 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:03:03 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:03:16 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:03:19 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:03:21 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-25 09:03:22 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::

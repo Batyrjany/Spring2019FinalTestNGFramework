@@ -1,4 +1,5 @@
 package com.vytrack.utilities;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -22,6 +23,13 @@ public abstract class BasePage {
     @FindBy(css = "h1[class='oro-subtitle']")
     protected WebElement pageSubTitle;
 
+    @FindBy(css = "#user-menu > a")
+    protected WebElement usersFullName;
+
+
+    @FindBy(linkText = "Logout")
+    protected WebElement logout;
+
 
     public BasePage() {
         PageFactory.initElements(Driver.getDriver(), this);
@@ -34,9 +42,9 @@ public abstract class BasePage {
     public String getPageSubTitle() {
         //ant time we are verifying page name, or page subtitle, loader mask appears
         waitUntilLoaderScreenDisappear();
-        WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(), Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
         wait.until(ExpectedConditions.visibilityOf(pageSubTitle));
-       // BrowserUtils.waitForStaleElement(pageSubTitle);
+        // BrowserUtils.waitForStaleElement(pageSubTitle);
         return pageSubTitle.getText();
     }
 
@@ -48,7 +56,7 @@ public abstract class BasePage {
      */
     public void waitUntilLoaderScreenDisappear() {
         try {
-            WebDriverWait wait = new WebDriverWait(Driver.getDriver(),Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+            WebDriverWait wait = new WebDriverWait(Driver.getDriver(), Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
             wait.until(ExpectedConditions.invisibilityOf(loaderMask));
         } catch (Exception e) {
             logger.error("Loader mask doesn't present.");
@@ -72,7 +80,7 @@ public abstract class BasePage {
             WebElement tabElement = Driver.getDriver().findElement(By.xpath(tabLocator));
             new Actions(Driver.getDriver()).moveToElement(tabElement).pause(200).doubleClick(tabElement).build().perform();
         } catch (Exception e) {
-            logger.error("Failed to click on :: "+tab);
+            logger.error("Failed to click on :: " + tab);
             logger.error(e);
             BrowserUtils.clickWithWait(By.xpath(tabLocator), Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
         }
@@ -82,11 +90,26 @@ public abstract class BasePage {
             BrowserUtils.scrollToElement(Driver.getDriver().findElement(By.xpath(moduleLocator)));
             Driver.getDriver().findElement(By.xpath(moduleLocator)).click();
         } catch (Exception e) {
-            logger.error("Failed to click on :: "+module);
+            logger.error("Failed to click on :: " + module);
             logger.error(e);
             BrowserUtils.waitForStaleElement(Driver.getDriver().findElement(By.xpath(moduleLocator)));
-            BrowserUtils.clickWithTimeOut(Driver.getDriver().findElement(By.xpath(moduleLocator)),  Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+            BrowserUtils.clickWithTimeOut(Driver.getDriver().findElement(By.xpath(moduleLocator)), Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
         }
     }
 
+    public String getUsersFullName() {
+
+        waitUntilLoaderScreenDisappear();
+        BrowserUtils.waitForVisibility(usersFullName, Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+
+        return usersFullName.getText();
+    }
+    public void logout(){
+
+        BrowserUtils.waitForStaleElement(usersFullName);
+        usersFullName.click();
+        logout.click();
+    }
 }
+
+

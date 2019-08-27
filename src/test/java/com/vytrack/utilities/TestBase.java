@@ -65,7 +65,7 @@ public class TestBase {
         pages = new Pages();
         softAssert = new SoftAssert();
         driver.manage().timeouts().implicitlyWait(Long.valueOf(ConfigurationReader.getProperty("implicitwait")), TimeUnit.SECONDS);
-        driver.manage().window().maximize();
+        driver.manage().window().fullscreen();
         String URL = ConfigurationReader.getProperty("url"+ConfigurationReader.getProperty("environment"));
         driver.get(URL);
         logger.info("URL: "+URL);
