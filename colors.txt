@@ -13,9 +13,7 @@ truck1
 truck2
 car1
 car2
-<<<<<<< Updated upstream
 car4
 car5
-=======
 car6
->>>>>>> Stashed changes
+
