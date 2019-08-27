@@ -3,4 +3,8 @@ red
 orange
 pink
 yellow
+<<<<<<< HEAD
 
+=======
+purple
+>>>>>>> c5ee9c3bb6cc86891b647e809e37e52f8eebd564
