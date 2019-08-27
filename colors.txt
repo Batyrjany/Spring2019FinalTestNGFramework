@@ -8,4 +8,8 @@ white
 green
 brown
 silver
+<<<<<<< Updated upstream
 car
+=======
+truck1
+>>>>>>> Stashed changes
