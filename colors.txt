@@ -11,4 +11,8 @@ silver
 car
 truck1
 truck2
+<<<<<<< Updated upstream
 car1
+=======
+car2
+>>>>>>> Stashed changes
