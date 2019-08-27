@@ -6,4 +6,8 @@ yellow
 purple
 white
 green
+<<<<<<< Updated upstream
 brown
+=======
+silver
+>>>>>>> Stashed changes
