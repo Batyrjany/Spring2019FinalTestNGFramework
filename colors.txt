@@ -6,12 +6,6 @@ yellow
 purple
 white
 green
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 brown
-=======
 silver
->>>>>>> Stashed changes
-=======
-silver
->>>>>>> Stashed changes
+truck
