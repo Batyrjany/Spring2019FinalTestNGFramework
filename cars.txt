@@ -8,4 +8,5 @@ airbus
 boeing
 tesla
 bmw
+toyota
 lexus
